@@ -1,20 +1,8 @@
-Felipe Madureira de Souza
-24 Years old
-Praia da Costa, Espirito Santo, Brazil
-Front-End Developer
-
-
-<!--
-**felippefms/felippefms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Welcome To My Profile 👋<br><br>
+👨🏻‍Felipe Madureira de Souza<br>
+🌱24 Years old<br>
+🏠Praia da Costa, Espirito Santo, Brazil<br>
+💻Front-End / Mobile Developer<br>
+📫You can reach me on my website<br>
+✉️Email: felippefms3@gmail.com<br>
+🎓Studying Software Engineering in Estácio de Sá.<br>
