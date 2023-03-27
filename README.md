@@ -7,5 +7,8 @@
 ✉️Email: felippefms3@gmail.com<br>
 🎓Cursando Análise e Desenvolvimento de sistemas em Estácio de Sá.<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippefms&show_icons=true&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippefms&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/felippefms/felippefms/README)
+<div>
+<a href="https://github.com/felippemfs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felippefms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippefms&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
