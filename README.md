@@ -8,3 +8,4 @@
 🎓Cursando Análise e Desenvolvimento de sistemas em Estácio de Sá.<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felippefms&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felippefms&hide_progress=true)](https://github.com/felippefms/README)
