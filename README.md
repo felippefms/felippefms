@@ -1,6 +1,6 @@
-##👋 Olá, bem vindo ao meu perfil 👋<br><br>
+👋 Olá, bem vindo ao meu perfil 👋<br><br>
 👨🏻‍Felipe Madureira de Souza<br>
-🌱26 anos<br>
+🌱20/12/1996<br>
 🏠Praia da Costa, Espirito Santo, Brasil<br>
 💻Front-End / Web / Mobile Developer<br>
 📫Acesse meu site https://felippefms.github.io/<br>
