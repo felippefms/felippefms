@@ -5,7 +5,7 @@
 💻Front-End / Web / Mobile Developer<br>
 📫Acesse meu site https://felippefms.github.io/<br>
 ✉️Email: felippefms3@gmail.com<br>
-🎓Cursando Análise e Desenvolvimento de sistemas em Estácio de Sá.<br>
+🎓Formado em Análise e Desenvolvimento de sistemas em Estácio de Sá.<br>
 
 
 [![Site](https://img.shields.io/website?label=felippefms.github.io&style=for-the-badge&url=https://felippefms.github.io/)](https://felippefms.github.io/)
