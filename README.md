@@ -2,7 +2,7 @@
 👨🏻‍Felipe Madureira de Souza<br>
 🌱20/12/1996<br>
 🏠Praia da Costa, Espirito Santo, Brasil<br>
-💻Front-End / Web / Mobile Developer<br>
+💻Front-End / Web / Back-End / Mobile Developer<br>
 📫Acesse meu site https://felippefms.github.io/<br>
 ✉️Email: felippefms3@gmail.com<br>
 🎓Formado em Análise e Desenvolvimento de sistemas pela Estácio de Sá.<br>
