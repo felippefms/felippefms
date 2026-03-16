@@ -3,18 +3,18 @@
 🌱20/12/1996<br>
 🏠Praia da Costa, Espirito Santo, Brasil<br>
 💻Front-End / Web / Back-End / Mobile Developer<br>
-📫Acesse meu site https://felippefms.github.io/<br>
+📫Acesse meu site https://felippefms.com.br/<br>
 ✉️Email: felippefms3@gmail.com<br>
 🎓Formado em Análise e Desenvolvimento de sistemas pela Estácio de Sá.<br>
 
 
-[![Site](https://img.shields.io/website?label=felippefms.github.io&style=for-the-badge&url=https://felippefms.github.io/)](https://felippefms.github.io/)
+[![Site](https://img.shields.io/website?label=felippefms.github.io&style=for-the-badge&url=https://felippefms.github.io/)](https://felippefms.com.br/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=felippefms3@gmail.com&tf=cm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippefms/)
 
 
 <div>
-<a href="https://github.com/felippemfs">
+<a href="https://felippefms.com.br">
 </div>
 
 ## Tecnologias que utilizo:
